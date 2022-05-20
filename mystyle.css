@@ -1,0 +1,17 @@
+img {
+    border-color: rgb(180, 16, 16);
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 20%;
+}
+.monika {
+    font-size: 30px;
+    border-color: purple;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#dominik {
+    font-size: 31px;
+
+}
